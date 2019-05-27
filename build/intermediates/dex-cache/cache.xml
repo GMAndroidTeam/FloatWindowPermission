@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/liukunyu/.android/build-cache/040751b86dd02f69a94ae1a36dca396a260381b3/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/liukunyu/workspace/FloatWindowPermission/FloatWindowPermission/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_f520b811eb7dc98be926a5b716567d76ceefb82b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liukunyu/.android/build-cache/f13f6a0d8dd582a65f4e8c7006759ebda647c6fe/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/liukunyu/workspace/FloatWindowPermission/FloatWindowPermission/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fa1b425dc7163070a16cae90badd092f79065d56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liukunyu/.android/build-cache/24c807c3abed45fe9658de3c77a5d14209196b7e/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/liukunyu/workspace/FloatWindowPermission/FloatWindowPermission/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_26ce9b59bd3d7f4660085a67e6578a7dae152089/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liukunyu/workspace/FloatWindowPermission/FloatWindowPermission/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="/Users/liukunyu/workspace/FloatWindowPermission/FloatWindowPermission/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_91d6de28e21d059bde7700384b20f51b11006d21/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liukunyu/.android/build-cache/4e3d05313ee31fcbfa9e43e106cbfd1203538eee/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/liukunyu/workspace/FloatWindowPermission/FloatWindowPermission/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8b1d8bafc197401418e84beaf2feb4d15b6edd39/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liukunyu/workspace/FloatWindowPermission/FloatWindowPermission/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="beea6f4ffc72f5080703041b04fb3a6ccaee25c2">
+        <dex dex="/Users/liukunyu/workspace/FloatWindowPermission/FloatWindowPermission/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e94387470cf4e1068e3a284e9112549e54311730/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liukunyu/.android/build-cache/9ea89fec2e40376d4220e5b86e461f8002b2c811/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/liukunyu/workspace/FloatWindowPermission/FloatWindowPermission/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b8e0d09c4464c3905782f7de9fb3bdde05aa7fb9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liukunyu/.android/build-cache/11cf39dcd82dbc3e033fbf1668c34d30112cd215/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/liukunyu/workspace/FloatWindowPermission/FloatWindowPermission/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5ed997bfc6023308828a84dc4ae07596aaeb0976/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liukunyu/.android/build-cache/040751b86dd02f69a94ae1a36dca396a260381b3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/liukunyu/workspace/FloatWindowPermission/FloatWindowPermission/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_948889ee9a849cf653545ad32aac57feb8470f03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liukunyu/.android/build-cache/f09a02569026e917e9bc307ca1eef2a23d75c1bc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/liukunyu/workspace/FloatWindowPermission/FloatWindowPermission/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_99ede0b40a978f9e3dff8cff331b6d8c1c7201d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liukunyu/.android/build-cache/f13f6a0d8dd582a65f4e8c7006759ebda647c6fe/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/liukunyu/workspace/FloatWindowPermission/FloatWindowPermission/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_eaa7bfd9f311f3e0d956ddf66a8270842eb08a31/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liukunyu/.android/build-cache/49511ed50c37d9d58a8147226fbdd876f9e1032b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/liukunyu/workspace/FloatWindowPermission/FloatWindowPermission/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b47324c53249d05292c054a82ba85268897edfcd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liukunyu/.android/build-cache/4e3d05313ee31fcbfa9e43e106cbfd1203538eee/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/liukunyu/workspace/FloatWindowPermission/FloatWindowPermission/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_a1c1870e4376b34f164407ee39ccab728d97a716/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liukunyu/.android/build-cache/4b0d3a0b18467f5899a3c2f2f2220f6d683fecc2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/liukunyu/workspace/FloatWindowPermission/FloatWindowPermission/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1cbc6d0f564d21ea5604fae89d7cc81a97885032/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liukunyu/.android/build-cache/4b0d3a0b18467f5899a3c2f2f2220f6d683fecc2/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/liukunyu/workspace/FloatWindowPermission/FloatWindowPermission/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_c8b3c3522222de0fea64a8b0515c600a4e31b893/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liukunyu/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/liukunyu/workspace/FloatWindowPermission/FloatWindowPermission/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_5d1f1c3b3aad159d4abe9a6f66ab22d21f0d610a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liukunyu/.android/build-cache/24c807c3abed45fe9658de3c77a5d14209196b7e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/liukunyu/workspace/FloatWindowPermission/FloatWindowPermission/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8b4a724a91360be0b8cd29f91e76109224fd0e82/classes.dex" />
+    </item>
+
+</items>
