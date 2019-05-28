@@ -55,9 +55,4 @@ proguard_logs/
 .DS_Store
 
 *.keystore
-
-fastlane/
-/Wanmei_zhensuo/bugly
-/Wanmei_zhensuo/dingding.json
-/Wanmei_zhensuo/time
 /gradle/wrapper/gradle-wrapper.properties
