@@ -3,21 +3,21 @@
 
     <item
         is-multidex="true"
+        jar="/Users/liukunyu/workspace/FloatWindowPermission/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5345e6e43cbe927ae675dbfb0b5b7bc5df3e890c">
+        <dex dex="/Users/liukunyu/workspace/FloatWindowPermission/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_43701df5bcc6df375207495c0ff22e77f63545d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/liukunyu/workspace/FloatWindowPermission/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
         <dex dex="/Users/liukunyu/workspace/FloatWindowPermission/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_13d8ce8e6378e579e24a082f68bbad3f72d74f23/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/liukunyu/workspace/FloatWindowPermission/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="4cfd7945f4593158288e8df41e4f391578f3e625">
-        <dex dex="/Users/liukunyu/workspace/FloatWindowPermission/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_43701df5bcc6df375207495c0ff22e77f63545d7/classes.dex" />
     </item>
 
 </items>
